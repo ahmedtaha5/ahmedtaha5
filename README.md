@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Backend Node.js developer</h3>
+<p align="left">
+  Hi, I'm Ahmed Taha, a fresh graduate from the Benha Faculty of Computers and Artificial Intelligence. I'm passionate about backend development, specializing in Node.js. I'm always eager to work on building scalable, secure, and efficient backend solutions.
+</p>
 
 - 📫 How to reach me **ahmedtaha1682@gmail.com**
 
